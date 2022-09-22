@@ -1,0 +1,36 @@
+{
+	"RowArrays": [
+		{
+			"Key": "Ka___",
+			"Value": [ false, false, false ]
+		},
+		{
+			"Key": "Ka__H",
+			"Value": [ false, false, true]
+		},
+		{
+			"Key": "Ka_H_",
+			"Value": [ false, true, false]
+		},
+		{
+			"Key": "Ka_HH",
+			"Value": [ false, true, true]
+		},
+		{
+			"Key": "KaH__",
+			"Value": [true, false, false]
+		},
+		{
+			"Key": "KaH_H",
+			"Value": [true, false, true]
+		},
+		{
+			"Key": "KaHH_",
+			"Value": [true, true, false]
+		},
+		{
+			"Key": "KaHHH",
+			"Value": [true, true, true]
+		}
+	]
+}
