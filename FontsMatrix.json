@@ -32,5 +32,31 @@
 			"Key": "KaHHH",
 			"Value": [true, true, true]
 		}
+	],
+	"Letters": [
+		{
+			"Key": "Ka0",
+			"Value": [
+				"Ka___",
+				"KaHHH",
+				"KaH_H",
+				"KaH_H",
+				"KaH_H",
+				"KaHHH",
+				"Ka___"
+			]
+		},
+		{
+			"Key": "KaA",
+			"Value": [
+				"Ka___",
+				"KaHHH",
+				"KaH_H",
+				"KaHHH",
+				"KaH_H",
+				"KaH_H",
+				"Ka___"
+			]
+		}
 	]
 }
